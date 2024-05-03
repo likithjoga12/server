@@ -1,3 +1,3 @@
 let  mongoose=require("mongoose");
-let url="mongodb://127.0.0.1:27017/mernpe5pm"
+let url="mongodb+srv://likithyadav143:<password>@mern5am.69515ob.mongodb.net/?retryWrites=true&w=majority&appName=Mern5am"
 mongoose.connect(url);
